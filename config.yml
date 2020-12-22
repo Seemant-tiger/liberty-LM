@@ -1,0 +1,34 @@
+yelp:
+  app-name: sksr-20200901-1104
+  client-id: IzItQmlN8QWcAv_wvnWztg
+  api-key: xWaaII5V6ARvtbmEEQLZo05BoDs9zG7ArPX9FghULsFp96YW69QKkcO4Bs3avoZ_mLRDJ6UD_o94JqP6LZGAdQnB9pJl53i0lERvD_tiJxi6lBzYaBuTI2fKLN5NX3Yx
+geocodio:
+  api-key: e5dedd0a44ffe2dc6e40cca6fc5ee5220ea2262
+  version: '1.6'
+zomato:
+  api-keys:
+    - 310467aba8dadac45f3e568f04f4341b
+facebook:
+  api-key:
+    541679313403487|425c2f5746214ec1f43cfc38ab86f62a
+companyhouse:
+  api-key:
+    O5J4ROC9a6z86g7e00mTJMCTrLOae8MSioeckjsK
+googleplaces:
+  places-key:
+    AIzaSyAQ8ZIZkOAY85A1uSFXzEW4I0RCKgmtHrw
+  geocodio-key:
+    AIzaSyBAAZjvsi7eEYzWUAMdLUp8mjsnKssLtSU
+zoominfo:
+  username:
+    dataenrich@tigeranalytics.com
+  password:
+    Tiger@2020
+foursquare:
+  client_id:
+    2SHWEC2ARSQSMZVR4BGQPYAK0ZXNVIEMEHDIAIXDW3NEZ452
+  client_secret:
+    M0J14VOS0H2L4ZYLRPTFGUILTJD0SLFQEQSANDPYGPG4S1UL
+  version:
+    20180323
+  
